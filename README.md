@@ -1,2 +1,2 @@
-# rpi-setup
-Raspberry pi setup scripts
+# Clanfield CCEP - #CodeClub github
+Raspberry Pi(tm) files & scripts
